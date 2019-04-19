@@ -20,4 +20,4 @@ A mobile application that analyzes emotion/mood of a selfie you take in-app, and
 
 ### All Application Screens:
 
-![design](Design.pdf)
+To get a closer look at all of the screens in the application, take a look [Here](Design.pdf)
