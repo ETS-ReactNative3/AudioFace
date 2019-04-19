@@ -17,3 +17,7 @@ A mobile application that analyzes emotion/mood of a selfie you take in-app, and
 ![image](Flow1.png)
 
 ![image](Flow2.png)
+
+### All Application Screens:
+
+![design](Design.pdf)
