@@ -14,6 +14,6 @@ A mobile application that analyzes emotion/mood of a selfie you take in-app, and
 
 ### App Flow:
 
-![image](https://github.com/basil-chatha/AudioFace/edit/master/Flow1.png?raw=true)
+![image](Flow1.png)
 
-![image](https://github.com/basil-chatha/AudioFace/edit/master/Flow2.png?raw=true)
+![image](Flow2.png)
